@@ -3,7 +3,9 @@
 Each week has 5 working days (Mon-Fri). Every day builds on the previous one, and the **Friday** of each week finishes and verifies that week's assignment. Plan for roughly 2-3 hours per day.
 
 **Daily routine:** (1) do the task, (2) commit to Git with a clear message, (3) write 3-5 lines in a `NOTES.md` about what you learned or what broke.
-
+Material - Udemy
+1. https://www.udemy.com/course/5-gitlab-spa-project-java-nodejs-php-python-handson-only/learn/lecture/45356107#overview
+2. https://www.udemy.com/course/docker-kubernetes-the-practical-guide/learn/lecture/22166652#overview
 ---
 
 ## Week 1: Docker
